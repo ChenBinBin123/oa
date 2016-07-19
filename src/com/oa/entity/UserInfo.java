@@ -5,7 +5,6 @@ public class UserInfo {
 	private String name;
 	
 	
-	
 	public int getId() {
 		return id;
 	}
